@@ -5,13 +5,13 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <html>
-    <head>
-        <meta charset="ISO-8859-1">
-        <title></title>
+    <head>       
+        <title>Hola Mundo</title>
     </head>
     <body>
         <?php
         // put your code here
+        echo "Hola Mundo";
         ?>
     </body>
 </html>
